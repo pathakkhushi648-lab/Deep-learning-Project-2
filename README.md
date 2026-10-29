@@ -217,3 +217,4 @@ By comparing different configurations and evaluating models with multiple perfor
 The project also provides a foundation for future work involving hyperparameter tuning, model explainability, fairness evaluation, and deployment.
 
 ## 13. Author Information 
+Name :  Swarna Pathak 
